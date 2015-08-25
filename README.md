@@ -1,5 +1,5 @@
 
-#Bookmarklet to Apply Material Design on any Page
+## Material Design Bookmarklet 
 
 ### How to use it
 
